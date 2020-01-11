@@ -2,7 +2,7 @@ title: Michel-Kok.GitHub.io
 description: 
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-merlot
+theme: jekyll-theme-dinky
 
 gems:
   - jekyll-mentions
